@@ -7,7 +7,7 @@ const SayHello = () => {
   const [userInput, setUserInput] = useState("");
   const [helloResponse, setHelloResponse] = useState("");
 
-  useEffect(() => {}, []);
+
 
   const helloClickFunc = async () => {
     if (userInput != "")

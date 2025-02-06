@@ -1,7 +1,24 @@
 import { NavLink } from "react-router-dom";
 import { magicFetch } from "../Services/DataService.js";
+import { useState } from "react";
 
 const Magic8Ball = () => {
+
+      const [userInput, setUserInput] = useState("");
+      const [cpuResponse, setCpuResponse] = useState("");
+
+      const AskQuestion = async () => {
+
+        if (userInput =="")
+        {
+
+        }
+        else
+        {
+            setCpuResponse(await magicFetch(userInput))
+        }
+
+      }
 
     return(
     
@@ -102,7 +119,7 @@ const Magic8Ball = () => {
         {/* <!-- The main content --> */}
         <div className=" h-full w-full md:w-[76%] grid grid-cols-[16.67%_16.67%_16.67%_16.67%_16.67%_16.67%] grid-rows-[14.29%_14.29%_14.29%_14.29%_14.29%_14.29%_14.29%]">
             {/* <!-- user Input fields --> */}
-           <input id="question" placeholder="My question is" type="text" className="bg-white h-[50%] w-full sm:w-[80%] col-start-2 row-start-5 col-end-6 self-center justify-self-center border-1 inset-shadow-sm rounded-[5px] text-center text-[40px] font-bold" />
+           <input onChange={(e) => setUserInput(e.target.value)} placeholder="My question is" type="text" className="bg-white h-[50%] w-full sm:w-[80%] col-start-2 row-start-5 col-end-6 self-center justify-self-center border-1 inset-shadow-sm rounded-[5px] text-center text-[40px] font-bold" />
        
             <p className="m-0 col-start-2 col-end-6 row-start-1 row-end-3 text-center self-center font-bold text-[30px] md:text-[40px]">Ask me a question</p>
 
@@ -114,14 +131,14 @@ const Magic8Ball = () => {
                     <h2 className="bg-[#0B44FF] text-white font-bold py-1 rounded-t-[5px]">Computer</h2>
                     
                         <div className="h-[90%]  place-content-center overflow-y-auto">
-                            <p id="cpuResponse" className="self-center text-[30px] md:text-[40px] font-bold mb-2"></p>
+                            <p id="cpuResponse" className="self-center text-[30px] md:text-[40px] font-bold mb-2">{cpuResponse}</p>
                         </div>
 
                 </div>
             </div>
 
             {/* <!-- button to trigger response --> */}
-           <button id="magicBtn" className="col-start-3 col-end-5 text-center row-start-6 h-25 self-center bg-[#DCD7B5] rounded-[5px] border-t-2 border-t-white  border-s-2 border-s-white border-b-2 border-b-black  border-e-2 border-e-black text-[30px] sm:text-[45px]  font-extrabold active:border-t-black active:border-s-black active:border-e-white active:border-b-white">Ask</button>
+           <button onClick={AskQuestion} className="col-start-3 col-end-5 text-center row-start-6 h-25 self-center bg-[#DCD7B5] rounded-[5px] border-t-2 border-t-white  border-s-2 border-s-white border-b-2 border-b-black  border-e-2 border-e-black text-[30px] sm:text-[45px]  font-extrabold active:border-t-black active:border-s-black active:border-e-white active:border-b-white">Ask</button>
 
         </div>
 
