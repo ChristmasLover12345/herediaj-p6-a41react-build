@@ -149,7 +149,7 @@ const Magic8Ball = () => {
     <footer className="w-full h-[6vh] bg-[#1765FF] absolute bottom-0 flex justify-start rounded-[5px]">
 
         <NavLink to='/'><div className="bg-[#1FED2C] h-full flex rounded-[5px]">
-            <img src="../assets/windows Icon.png" alt="windowsXP logo" className="w-[55px] h-[100%] self-center mx-3 "/>
+            <img src="../public/Icons/windows Icon.png" alt="windowsXP logo" className="w-[55px] h-[100%] self-center mx-3 "/>
             <h1 className="m-0 text-center self-center text-white text-[40px] pe-8">Start</h1>
         </div></NavLink>
         

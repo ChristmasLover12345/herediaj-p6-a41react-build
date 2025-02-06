@@ -230,7 +230,7 @@ const OddOrEven = () => {
         <NavLink to="/">
           <div className="bg-[#1FED2C] h-full flex rounded-[5px]">
             <img
-              src="../assets/windows Icon.png"
+              src="../public/Icons/windows Icon.png"
               alt="windowsXP logo"
               className="w-[55px] h-[100%] self-center mx-3 "
             />
