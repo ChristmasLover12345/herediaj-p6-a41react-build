@@ -16,70 +16,70 @@ function App() {
 
 <div className="drop-shadow-sm  col-start-2 row-start-2 sm:col-start-1 sm:row-start-2 ">
     <NavLink to="/SayHello">
-        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center" src="./public/Icons/XPComputerIcon.png" alt="a computer Icon"/>
+        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center" src="./Icons/XPComputerIcon.png" alt="a computer Icon"/>
         <p className="text-center text-white juanStroke">Say Hello.exe</p>
     </NavLink>
 </div>
 
 <div className="drop-shadow-sm  col-start-3 row-start-3 sm:col-start-1 sm:row-start-3">
     <NavLink to="/AskingQuestions">
-        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center" src="./public/Icons/XPComputerIcon.png" alt="a computer Icon"/>
+        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center" src="./Icons/XPComputerIcon.png" alt="a computer Icon"/>
         <p className="text-center text-white juanStroke">Asking Questions.exe</p>
     </NavLink>
 </div>
 
 <div className="drop-shadow-sm  col-start-2 row-start-3 sm:col-start-1 sm:row-start-4">
     <NavLink to="/AddTwo">
-        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center" src="./public/Icons/XPComputerIcon.png" alt="a computer Icon"/>
+        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center" src="./Icons/XPComputerIcon.png" alt="a computer Icon"/>
         <p className="text-center text-white juanStroke">Add Two Nums.exe</p>
     </NavLink>
 </div>
 
 <div className="drop-shadow-sm  col-start-2 row-start-4 sm:col-start-1 sm:row-start-5">
     <NavLink to="/MadLib">
-        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center" src="./public/Icons/XPComputerIcon.png" alt="a computer Icon"/>
+        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center" src="./Icons/XPComputerIcon.png" alt="a computer Icon"/>
         <p className="text-center text-white juanStroke">MadLib.exe</p>
     </NavLink>
 </div>
 
 <div className="drop-shadow-sm  col-start-2 row-start-5 sm:col-start-1 sm:row-start-6">
     <NavLink to="/OddOrEven">
-        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center" src="./public/Icons/XPComputerIcon.png" alt="a computer Icon"/>
+        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center" src="./Icons/XPComputerIcon.png" alt="a computer Icon"/>
         <p className="text-center text-white juanStroke">Odd Or Even.exe</p>
     </NavLink>
 </div>
 
 <div className="drop-shadow-sm  col-start-2 row-start-6 sm:col-start-1 sm:row-start-7 ">
     <NavLink to="/ReverseAlpha">
-        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center" src="./public/Icons/XPComputerIcon.png" alt="a computer Icon"/>
+        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center" src="./Icons/XPComputerIcon.png" alt="a computer Icon"/>
         <p className="text-center text-white juanStroke">Reverse It Alpha.exe</p>
     </NavLink>
 </div>
 
 <div className="drop-shadow-sm  col-start-3 row-start-6 sm:col-start-2 sm:row-start-7">
     <NavLink to="/ReverseNums">
-        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center" src="./public/Icons/XPComputerIcon.png" alt="a computer Icon"/>
+        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center" src="./Icons/XPComputerIcon.png" alt="a computer Icon"/>
         <p className="text-center text-white juanStroke">Reverse It Numbers.exe</p>
     </NavLink>
 </div>
 
 <div className="drop-shadow-sm  col-start-3 row-start-5 sm:col-start-2 sm:row-start-6">
     <NavLink to="/Magic8Ball">
-        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center" src="./public/Icons/XPComputerIcon.png" alt="a computer Icon"/>
+        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center" src="./Icons/XPComputerIcon.png" alt="a computer Icon"/>
         <p className="text-center text-white juanStroke">Magic 8 Ball.exe</p>
     </NavLink>
 </div>
 
 <div className="drop-shadow-sm  col-start-3 row-start-4 sm:col-start-2 sm:row-start-5">
     <NavLink to="/Restaurant">
-        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center self-center" src="./public/Icons/XPComputerIcon.png" alt="a computer Icon"/>
+        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center self-center" src="./Icons/XPComputerIcon.png" alt="a computer Icon"/>
         <p className="text-center text-white juanStroke">Restaurant Picker.exe</p>
     </NavLink>
 </div>
 
 <div className="drop-shadow-sm  col-start-3 row-start-2 sm:col-start-2 sm:row-start-4">
     <NavLink to="/GTLT">
-        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center self-center" src="./public/Icons/XPComputerIcon.png" alt="a computer Icon"/>
+        <img className="w-[132px] h-[75px] sm:w-[132px] sm:h-[60px] lg:w-[132px] lg:h-[75px] justify-self-center self-center" src="./Icons/XPComputerIcon.png" alt="a computer Icon"/>
         <p className="text-center text-white juanStroke">GTLT.exe</p>
     </NavLink>
 </div>
@@ -92,7 +92,7 @@ function App() {
 <footer className="w-full h-[6vh] bg-[#1765FF] absolute bottom-0 flex justify-start rounded-[5px]">
 
 <NavLink to="/"><div className="bg-[#1FED2C] h-full flex rounded-[5px]">
-<img src="./public/Icons/windows Icon.png" alt="windowsXP logo" className="w-[55px] h-[100%] self-center mx-3 "/>
+<img src="./Icons/windows Icon.png" alt="windowsXP logo" className="w-[55px] h-[100%] self-center mx-3 "/>
 <h1 className="m-0 text-center self-center text-white text-[40px] pe-8">Start</h1>
 </div></NavLink>
 
