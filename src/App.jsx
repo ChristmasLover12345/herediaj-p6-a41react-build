@@ -8,7 +8,7 @@ function App() {
   return (
     <>
 
-    <div className='relative bg-center bg-cover h-screen w-screen overflow-hidden bg-[url(./public/Icons/WindowsXpBack.jpg)]'>
+    <div className='relative bg-center bg-cover h-screen w-screen overflow-hidden bg-[url(./Icons/WindowsXpBack.jpg)]'>
 
 
 

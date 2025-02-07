@@ -35,7 +35,7 @@ const OddOrEven = () => {
 
         <img
           className="ms-5"
-          src="../public/Icons/XPComputerIcon.png"
+          src="../Icons/XPComputerIcon.png"
           alt="a computer Icon"
         />
         <p className="text-center text-white font-bold text-[25px] sm:text-[40px] self-center mb-0 ms-3 ">
@@ -54,7 +54,7 @@ const OddOrEven = () => {
           <div className="flex py-2">
             <img
               className="ms-2 w-[65px] h-[42px]"
-              src="../public/Icons/XPComputerIcon.png"
+              src="../Icons/XPComputerIcon.png"
               alt="a computer Icon"
             />
             <p className="text-center font-bold text-[25px] self-center mb-0 ms-3 ">
@@ -68,7 +68,7 @@ const OddOrEven = () => {
             <div className="flex">
               <img
                 className="ms-2 w-[65px] h-[42px]"
-                src="../public/Icons/windoesXpFolder.png"
+                src="../Icons/windoesXpFolder.png"
                 alt="a computer Icon"
               />
               <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">
@@ -79,7 +79,7 @@ const OddOrEven = () => {
             <div className="flex">
               <img
                 className="ms-2 w-[65px] h-[42px]"
-                src="../public/Icons/windoesXpFolder.png"
+                src="../Icons/windoesXpFolder.png"
                 alt="a computer Icon"
               />
               <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">
@@ -90,7 +90,7 @@ const OddOrEven = () => {
             <div className="flex">
               <img
                 className="ms-2 w-[65px] h-[42px]"
-                src="../public/Icons/windoesXpFolder.png"
+                src="../Icons/windoesXpFolder.png"
                 alt="a computer Icon"
               />
               <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">
@@ -101,7 +101,7 @@ const OddOrEven = () => {
             <div className="flex">
               <img
                 className="ms-2 w-[65px] h-[42px]"
-                src="../public/Icons/windoesXpFolder.png"
+                src="../Icons/windoesXpFolder.png"
                 alt="a computer Icon"
               />
               <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">
@@ -112,7 +112,7 @@ const OddOrEven = () => {
             <div className="flex">
               <img
                 className="ms-2 w-[65px] h-[42px]"
-                src="../public/Icons/windoesXpFolder.png"
+                src="../Icons/windoesXpFolder.png"
                 alt="a computer Icon"
               />
               <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">
@@ -123,7 +123,7 @@ const OddOrEven = () => {
             <div className="flex">
               <img
                 className="ms-2 w-[65px] h-[42px]"
-                src="../public/Icons/windoesXpFolder.png"
+                src="../Icons/windoesXpFolder.png"
                 alt="a computer Icon"
               />
               <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">
@@ -134,7 +134,7 @@ const OddOrEven = () => {
             <div className="flex">
               <img
                 className="ms-2 w-[65px] h-[42px]"
-                src="../public/Icons/windoesXpFolder.png"
+                src="../Icons/windoesXpFolder.png"
                 alt="a computer Icon"
               />
               <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">
@@ -145,7 +145,7 @@ const OddOrEven = () => {
             <div className="flex">
               <img
                 className="ms-2 w-[65px] h-[42px]"
-                src="../public/Icons/windoesXpFolder.png"
+                src="../Icons/windoesXpFolder.png"
                 alt="a computer Icon"
               />
               <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">
@@ -156,7 +156,7 @@ const OddOrEven = () => {
             <div className="flex">
               <img
                 className="ms-2 w-[65px] h-[42px]"
-                src="../public/Icons/windoesXpFolder.png"
+                src="../Icons/windoesXpFolder.png"
                 alt="a computer Icon"
               />
               <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">
@@ -167,7 +167,7 @@ const OddOrEven = () => {
             <div className="flex">
               <img
                 className="ms-2 w-[65px] h-[42px]"
-                src="../public/Icons/windoesXpFolder.png"
+                src="../Icons/windoesXpFolder.png"
                 alt="a computer Icon"
               />
               <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">
@@ -230,7 +230,7 @@ const OddOrEven = () => {
         <NavLink to="/">
           <div className="bg-[#1FED2C] h-full flex rounded-[5px]">
             <img
-              src="../public/Icons/windows Icon.png"
+              src="../Icons/windows Icon.png"
               alt="windowsXP logo"
               className="w-[55px] h-[100%] self-center mx-3 "
             />

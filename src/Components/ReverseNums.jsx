@@ -33,7 +33,7 @@ const ReverseNums = () => {
             </div>
         </NavLink>
 
-        <img className="ms-5" src="../public/Icons/XPComputerIcon.png" alt="a computer Icon"/>
+        <img className="ms-5" src="../Icons/XPComputerIcon.png" alt="a computer Icon"/>
         <p className="text-center text-white font-bold text-[25px] sm:text-[40px] self-center mb-0 ms-3 ">Reverse It Nums</p>
 
     </nav>
@@ -49,7 +49,7 @@ const ReverseNums = () => {
             </div>
 
             <div className="flex py-2">
-                <img  className="ms-2 w-[65px] h-[42px]" src="../public/Icons/XPComputerIcon.png" alt="a computer Icon"/>
+                <img  className="ms-2 w-[65px] h-[42px]" src="../Icons/XPComputerIcon.png" alt="a computer Icon"/>
                 <p className="text-center font-bold text-[25px] self-center mb-0 ms-3 ">Reverse It Nums</p>
             </div>
 
@@ -58,52 +58,52 @@ const ReverseNums = () => {
             <div className="overflow-y-scroll h-full w-full">
 
                 <div className="flex">
-                    <img  className="ms-2 w-[65px] h-[42px]" src="../public/Icons/windoesXpFolder.png" alt="a computer Icon"/>
+                    <img  className="ms-2 w-[65px] h-[42px]" src="../Icons/windoesXpFolder.png" alt="a computer Icon"/>
                     <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">Cat Pictures</p>
                 </div>
 
                 <div className="flex">
-                    <img  className="ms-2 w-[65px] h-[42px]" src="../public/Icons/windoesXpFolder.png" alt="a computer Icon"/>
+                    <img  className="ms-2 w-[65px] h-[42px]" src="../Icons/windoesXpFolder.png" alt="a computer Icon"/>
                     <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">Homework</p>
                 </div>
 
                 <div className="flex">
-                    <img  className="ms-2 w-[65px] h-[42px]" src="../public/Icons/windoesXpFolder.png" alt="a computer Icon"/>
+                    <img  className="ms-2 w-[65px] h-[42px]" src="../Icons/windoesXpFolder.png" alt="a computer Icon"/>
                     <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">Memes</p>
                 </div>
 
                 <div className="flex">
-                    <img  className="ms-2 w-[65px] h-[42px]" src="../public/Icons/windoesXpFolder.png" alt="a computer Icon"/>
+                    <img  className="ms-2 w-[65px] h-[42px]" src="../Icons/windoesXpFolder.png" alt="a computer Icon"/>
                     <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">Kanyewest</p>
                 </div>
 
                 <div className="flex">
-                    <img  className="ms-2 w-[65px] h-[42px]" src="../public/Icons/windoesXpFolder.png" alt="a computer Icon"/>
+                    <img  className="ms-2 w-[65px] h-[42px]" src="../Icons/windoesXpFolder.png" alt="a computer Icon"/>
                     <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">School</p>
                 </div>
 
                 <div className="flex">
-                    <img  className="ms-2 w-[65px] h-[42px]" src="../public/Icons/windoesXpFolder.png" alt="a computer Icon"/>
+                    <img  className="ms-2 w-[65px] h-[42px]" src="../Icons/windoesXpFolder.png" alt="a computer Icon"/>
                     <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">games</p>
                 </div>
 
                 <div className="flex">
-                    <img  className="ms-2 w-[65px] h-[42px]" src="../public/Icons/windoesXpFolder.png" alt="a computer Icon"/>
+                    <img  className="ms-2 w-[65px] h-[42px]" src="../Icons/windoesXpFolder.png" alt="a computer Icon"/>
                     <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">bronycon</p>
                 </div>
 
                 <div className="flex">
-                    <img  className="ms-2 w-[65px] h-[42px]" src="../public/Icons/windoesXpFolder.png" alt="a computer Icon"/>
+                    <img  className="ms-2 w-[65px] h-[42px]" src="../Icons/windoesXpFolder.png" alt="a computer Icon"/>
                     <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">RainbowDash</p>
                 </div>
 
                 <div className="flex">
-                    <img  className="ms-2 w-[65px] h-[42px]" src="../public/Icons/windoesXpFolder.png" alt="a computer Icon"/>
+                    <img  className="ms-2 w-[65px] h-[42px]" src="../Icons/windoesXpFolder.png" alt="a computer Icon"/>
                     <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">FursuitIdeas</p>
                 </div>
 
                 <div className="flex">
-                    <img  className="ms-2 w-[65px] h-[42px]" src="../public/Icons/windoesXpFolder.png" alt="a computer Icon"/>
+                    <img  className="ms-2 w-[65px] h-[42px]" src="../Icons/windoesXpFolder.png" alt="a computer Icon"/>
                     <p className="text-center font-bold text-[25px] w-[75%] self-center mb-0 truncate">FoodRecpis</p>
                 </div>
 
@@ -149,7 +149,7 @@ const ReverseNums = () => {
     <footer className="w-full h-[6vh] bg-[#1765FF] absolute bottom-0 flex justify-start rounded-[5px]">
 
         <NavLink to='/'><div className="bg-[#1FED2C] h-full flex rounded-[5px]">
-            <img src="../public/Icons/windows Icon.png" alt="windowsXP logo" className="w-[55px] h-[100%] self-center mx-3 "/>
+            <img src="../Icons/windows Icon.png" alt="windowsXP logo" className="w-[55px] h-[100%] self-center mx-3 "/>
             <h1 className="m-0 text-center self-center text-white text-[40px] pe-8">Start</h1>
         </div></NavLink>
         
