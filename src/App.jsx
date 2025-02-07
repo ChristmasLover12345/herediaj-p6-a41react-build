@@ -10,7 +10,7 @@ function App() {
 
     <div className='relative bg-center bg-cover h-screen w-screen overflow-hidden bg-[url(./Icons/WindowsXpBack.jpg)]'>
 
-
+        
 
     <section className="grid sm:gap-x-5 lg:gap-x-0 grid-cols-[15%_35%_35%_15%] sm:grid-cols-9 grid-rows-[10px_1fr_1fr_1fr_1fr_1fr_20px_6vh] sm:grid-rows-[10px_1fr_1fr_1fr_1fr_1fr_1fr_20px_6vh] w-full h-full text-[16px] sm:text-[12px] lg:text-[20px] xl:text-[25px] ">
 
